@@ -1,0 +1,3 @@
+// Para realizar deploy se debe restaurar la Base de datos adjunto en este proyecto y de nombre "test.Bak" , motor de BD utilizado Sql server 2017 
+// cambiar los datos para que apunten al servidor en el archivo index.js linea 17
+// Para correr proyecto se debe ejecutar npm intall y luego "node ." en una consola de comandos cmd , se debe tener node js descargado, instalado y con variables de entorno seteadas.
